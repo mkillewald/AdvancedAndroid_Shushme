@@ -38,4 +38,4 @@ project.properties
 
 # Gradle-based build
 .gradle
-build/
+build/app/src/main/AndroidManifest.xml
